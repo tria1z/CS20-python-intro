@@ -1,0 +1,19 @@
+hair_colour = "brown"
+eye_colour = "brown"
+name = "marvin" #String
+age = 17 #Integer
+height = 6.1 #Float
+hungry = 0 #Boolean
+
+#Comment
+print(hungry)
+
+if hungry:
+    print("here is 5 hamburgers")
+else:
+    print("take this water")
+
+if hungry == True:
+    print("here is 5 hamburgers")
+else:
+    print("take this water")
